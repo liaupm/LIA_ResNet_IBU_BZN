@@ -1,6 +1,6 @@
 # ResNet for IBU / BZC mixtures (LIA group)
 
-This repository stores the data used in the article: 
+This repository stores the deep learning model used in the article: 
 
 ## Highly reproducible Au nanoparticle assemblies using bolaform surfactants for label-free SERS-based detection
 
