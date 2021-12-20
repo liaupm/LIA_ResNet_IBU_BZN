@@ -2,7 +2,7 @@
 
 This repository stores the deep learning model used in the article: 
 
-## Highly reproducible Au nanoparticle assemblies using bolaform surfactants for label-free SERS-based detection
+## Bolaform surfactant-induced Au nanoparticle assemblies for reliable solution-based SERS detection
 
 Daniel García-Lojo, David Méndez-Merino, Ignacio Pérez-Juste, Ángel Acuña, Luís García-Río, Alfonso Rodríguez-Patón, Isabel Pastoriza-Santos, and Jorge Pérez-Justea
  
